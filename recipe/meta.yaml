@@ -1,5 +1,5 @@
 {% set name = "types-freezegun" %}
-{% set version = "1.1.8" %}
+{% set version = "1.1.9" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-freezegun-{{ version }}.tar.gz
-  sha256: f4bb08c54aa46816c77a1b5c7a2a54f5393c3ce58e7d4002e67f9081b411e921
+  sha256: 6f05108d468baecadf999873bd37e57b25ceb35d35d3f83e7a742f25d6fe8b0e
 
 build:
   number: 0
